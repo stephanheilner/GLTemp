@@ -1,0 +1,6 @@
+framework module Pods_GospelLibraryTests {
+  umbrella header "Pods-GospelLibraryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
